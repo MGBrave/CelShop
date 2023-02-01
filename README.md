@@ -3,7 +3,8 @@
 
 
 
-# Loja Celulares Online <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node-js" width="70" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  alt="html" width="70" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt="css" width="70" height="60"/>
+# Loja Celulares Online <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node-js" width="70" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  alt="html" width="70" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt="css" width="70" height="60"/><img src="https://github.com/MGBrave/CelShop/blob/main/apimercadolibre.jpg?raw=true"  alt="css" width="70" height="60"/>
+
 
           
       
@@ -16,7 +17,7 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-<!--[![Simple Portfolio React Sass](https://raw.githubusercontent.com/MGBrave/CelShop/75b641396f85f76ab80c232451b22c0fcba820e2/prototype.svg)]()-->
+[![Loja Cel online React ](https://raw.githubusercontent.com/MGBrave/CelShop/e4c716bed7c37f005a19d1edbf21c2a806da3776/prototype.svg  )]()
 
 
 
