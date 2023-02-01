@@ -3,7 +3,7 @@
 
 
 
-# Simple Portfolio React Sass <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="70" height="60" /><img src="https://raw.githubusercontent.com/MGBrave/SimplePortfolioReactSass/3b5ec2a1626085a841b921a850292c334ed5d600/vite-svg.svg"  alt="Vite" width="70" height="60"/>
+# Loja Celulares Online <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="70" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node-js" width="70" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  alt="html" width="70" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt="css" width="70" height="60"/>
 
           
       
@@ -16,7 +16,7 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-[![Simple Portfolio React Sass](https://raw.githubusercontent.com/MGBrave/SimplePortfolioReactSass/5528bd8c809b4b018c27f2ff3406c6c2bc7d4c67/prototype.svg)](https://codepen.io/martageraldo/full/BaPmvgj)
+<!--[![Simple Portfolio React Sass](https://raw.githubusercontent.com/MGBrave/CelShop/75b641396f85f76ab80c232451b22c0fcba820e2/prototype.svg)]()-->
 
 
 
